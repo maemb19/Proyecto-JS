@@ -1,0 +1,32 @@
+.encabezado {
+  background-color: #f8deef;
+  height: 100%;
+  width: 100%;
+}
+
+.encabezado a{
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(37, 32, 32);
+font-weight: 400px;
+}
+
+.item-card {
+width: 350px;
+}
+
+#carrito{
+  display: flex;
+  justify-content:end; 
+  width: auto;   
+}
+
+#carrito img{
+  width: 100px;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(37, 32, 32);
+}
+
