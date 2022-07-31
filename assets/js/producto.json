@@ -1,0 +1,107 @@
+[
+  { 
+    "id": 1,
+    "producto":"Oli",
+    "descripcion":"Vibrador Clitorial", 
+    "precio":"6250",
+    "img": "./assets/img/oli-vibador-clitorial.png"
+  },
+  {
+    "id": 2,
+    "producto":"Tito",
+    "descripcion":"Vibrador Clitorial",  
+    "precio":"7350",
+    "img":"./assets/img/tito-vibrador-clitorial.png"
+  },
+  {
+    "id": 3,
+    "producto":"Neo Plus",
+    "descripcion":"Vibrador Mini", 
+    "precio":"5890",
+    "img":"./assets/img/neo-vibrador-mini.png"
+  }, 
+  { 
+   " id": 4,
+    "producto":"Mio", 
+    "descripcion":"Anillo Vibrador", 
+    "precio":"3900",
+    "img": "./assets/img/mio-anillo-vibrador.png"
+  },
+  {
+   " id": 5,
+    "producto":"Tenga Eggs",
+    "descripcion":"Vibrador para Pene",  
+    "precio":"4980",
+    "img":"./assets/img/tenga-egg-vibrador-pene.png"
+  },
+  {
+   " id": 6,
+    "producto":"Nube",
+    "descripcion":"Plugs Anal", 
+    "precio":"2520",
+    "img":"./assets/img/nube-plugs-anal.png"
+  },  
+  {
+   " id": 7,
+    "producto":"PimPamPum",
+    "descripcion":"Plugs Anal", 
+    "precio":"2340",
+    "img":"./assets/img/pimpom-plugs-anal.png"
+  },
+  {
+   " id": 8,
+    "producto":"Uma",
+    "descripcion":"Bolas Chinas Anales", 
+    "precio":"2420",
+    "img":"./assets/img/uma-bolas-chinas.png"
+  },
+  {
+   " id": 9,
+    "producto":"Mambo",
+    "descripcion":"Succionador de Clitoris", 
+    "precio":"9890",
+    "img":"./assets/img/mambo-succionador-clitoris.png"
+  },
+  {
+   " id": 10,
+    "producto":"Satisfyer Pro2",
+    "descripcion":"Succionador de Clitoris", 
+    "precio":"12500",
+    "img":"./assets/img/satisfyer-pro2-succionador-clitoris.png"
+  },
+  {
+   " id": 11,
+    "producto":"Satisfyer Love Breeze",
+    "descripcion":"Succionador de Clitoris", 
+    "precio":"12200",
+    "img":"./assets/img/satisfyer-lovebreeze-succionador-clitoris.png"
+  },
+  {
+   " id": 12,
+    "producto":"Satisfyer Men Heat",
+    "descripcion":"Masturbador para Pene", 
+    "precio":"12500",
+    "img":"./assets/img/satisfyer-men-heat-masturbador-pene.png"
+  },
+  {
+   " id": 13,
+    "producto":"Gel Orgasmico Intense",
+    "descripcion":"Estimulante de Durex", 
+    "precio":"1550",
+    "img":"./assets/img/gel-orgasmico-intense-durex.png"
+  },
+  {
+   " id": 14,
+    "producto":"Balsamo Labial",
+    "descripcion":"Potenciador para el Sexo Oral", 
+    "precio":"1840",
+    "img":"./assets/img/balsamo-labial-potenciador-oral.png"
+  },
+  {
+   " id": 15,
+    "producto":"Aceite Besable",
+    "descripcion":"Aceite masaje de Kamasutra", 
+    "precio":"2000",
+    "img":"./assets/img/aceite-besable-kamasutra.png"
+  }
+]

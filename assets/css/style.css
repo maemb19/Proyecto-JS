@@ -1,32 +1,63 @@
-.encabezado {
-  background-color: #f8deef;
-  height: 100%;
-  width: 100%;
+body {
+  padding: 0;
+  margin: 0;
 }
 
-.encabezado a{
-font-size: 20px;
-font-family: Arial, Helvetica, sans-serif;
-color: rgb(37, 32, 32);
-font-weight: 400px;
+.logo-cart {
+  height: 180px;
+}
+
+.encabezado {
+  background-color: #322c30;
 }
 
 .item-card {
 width: 350px;
 }
 
-#carrito{
+.table .product-item .delete-column {
+  background-color: transparent;
+  border: none;
+}
+
+.table{
+  border-color: transparent;
+  border-collapse: separate;
+  text-align: center;
+  padding-left: 250px;
+  padding-right: 250px;
+  margin-top: 20px;
+}
+
+.card-text {
+  color: #d63384;
+}
+
+.form-cliente {
+  color: #d63384;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.product-total{
   display: flex;
-  justify-content:end; 
-  width: auto;   
+  justify-content: right;
+  padding-right: 505px;
+  margin-bottom: 50px;
 }
 
-#carrito img{
-  width: 100px;
+.item-total{
+  background-color: #716add;
+  color: whitesmoke;
+  font-weight: bold;
 }
 
-p{
-  font-family: Arial, Helvetica, sans-serif;
-  color: rgb(37, 32, 32);
+.finalizar{
+  background-color:  #d63384;;
+  color: whitesmoke;
+  border-radius: 5px;
+  border:#fbe567;
+  font-family:monospace;
+  font-weight: bolder;
 }
 
